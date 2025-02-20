@@ -1,0 +1,25 @@
+.img {
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+.name {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 6px;
+}
+
+.isOnlineText {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.active {
+  color: green;
+}
+
+.retired {
+  color: orangered;
+}
